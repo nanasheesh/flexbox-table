@@ -1,1 +1,1 @@
-# flexbox-table
+# Flexbox Pricing Table
